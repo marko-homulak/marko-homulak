@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=py,vscode,visualstudio,figma,ai,ps,pr,blender,unity,linux" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker,unity,c#,blender,dotnet" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=docker,c#,swift" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=java" alt="skills planning to learn logos">
