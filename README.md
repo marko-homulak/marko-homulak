@@ -64,7 +64,7 @@
   <img src="https://skillicons.dev/icons?i=docker,c#,swift" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=java,kotlin" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
