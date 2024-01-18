@@ -22,9 +22,9 @@
 
 * 🌳 I’m currently learning C, C#, and Swift! <br><br><br>
 
-* 🐾 I’m looking to software development and make friends here! <br><br><br>
+* 🐾 I’m looking to Unity Development and make friends here! <br><br><br>
 
-* 🌊 2023 Goals: Learn .NET and C and maybe Swift :). <br><br><br>
+* 🌊 2024 Goals: Learn .NET and maybe Kotlin :). <br><br><br>
 
 * ☕ Interest: Science, AI, Photos and Coding. <br><br><br>
 
