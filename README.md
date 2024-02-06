@@ -20,11 +20,11 @@
 
 * 👨‍💻 I'm Marko(marko-homulak)👋, a university student, I'm currently pursuing a Computer Science Degree in the Ukraine. <br><br><br>
 
-* 🌳 I’m currently learning C, C#, and Swift! <br><br><br>
+* 🌳 I’m currently learning C#, and Unity! <br><br><br>
 
 * 🐾 I’m looking to Unity Development and make friends here! <br><br><br>
 
-* 🌊 2024 Goals: Learn .NET and maybe Kotlin :). <br><br><br>
+* 🌊 2024 Goals: Learn/Improve .NET, Unity, Blender :). <br><br><br>
 
 * ☕ Interest: Science, AI, Photos and Coding. <br><br><br>
 
