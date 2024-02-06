@@ -20,7 +20,7 @@
 
 * 👨‍💻 I'm Marko(marko-homulak)👋, a university student, I'm currently pursuing a Computer Science Degree in the Ukraine. <br><br><br>
 
-* 🌳 I’m currently learning C#, and Unity! <br><br><br>
+* 🌳 I’m currently learning C# and Unity! <br><br><br>
 
 * 🐾 I’m looking to Unity Development and make friends here! <br><br><br>
 
