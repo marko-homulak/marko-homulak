@@ -24,7 +24,7 @@
 
 * 🐾 I’m looking to Unity Development and make friends here! <br><br><br>
 
-* 🌊 2024 Goals: Learn/Improve .NET, Unity, Blender :). <br><br><br>
+* 🌊 2025 Goals: Learn/Improve .NET, Unity, Blender :). <br><br><br>
 
 * ☕ Interest: Science, AI, Photos and Coding. <br><br><br>
 
